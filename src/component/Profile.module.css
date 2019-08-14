@@ -1,0 +1,78 @@
+@media only screen and (max-width:768px)
+{
+.base {
+  display: block;
+  background: linear-gradient(180deg, green, black);
+  height: 230px;
+  padding: 2px 16px;
+}
+.header {
+
+}
+.username
+{
+color:white;
+}
+img {
+  border-radius: 50%;
+  height: 25%;
+  width: 25%;
+  margin-top: 12%;
+}
+.button_name {
+  align: margin-left;
+}
+.Profile {
+  text-align: left;
+  color: purple;
+  padding-bottom: 6px;
+    padding-top: 10px;
+}
+.UserDetails{ 
+  display: block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  padding: 15px 16px;
+  font-size: 16px;
+  padding-bottom:10px;
+  background-color: white;    margin-top: 7px;
+
+}
+.textarea {
+  border-radius: 15%;
+  height: 10%;
+  width: 10%;
+}
+
+.inputWithIcon {
+  border-radius: 47px;
+  border: 2px solid violet;
+  height: 50%;
+}
+.InputType {
+  border-color: transparent;
+}
+
+
+.ProfileHolder{
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+
+  margin-top: 10px;
+}
+
+::placeholder {@media only screen and (max-width: 600px)
+  
+  font-size:10p@media only screen and (max-width: 600px)
+ 
+}
+
+.toggleHolde{
+  justify-content: center;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 10px;
+  display: flex;
+  flex-direction: row;
+}
+}

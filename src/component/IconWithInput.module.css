@@ -1,0 +1,22 @@
+@media only screen and (max-width:768px)
+{.inputContainer {
+  display: inline-block;
+  width: 96%;
+  border: 1px solid grey;
+  height: auto;
+  border-radius: 15px;
+  padding: 5px;
+}
+.imageHolder {
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+.inputBox {
+  display: inline-block;
+  width: 85%;
+  height: 25px;
+  vertical-align: middle;
+}
+}
